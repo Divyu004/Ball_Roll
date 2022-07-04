@@ -42,10 +42,5 @@ public class UI_Manage : MonoBehaviour
         Debug.Log("QUITING....");
         Application.Quit();
     }
-   /* public void OnClick_ChangeBtColor()
-    {
-        Debug.Log("qwer");
-        btn.gameObject.GetComponent<Image>().material.color = Color.red;
-    }*/
     #endregion
 }
